@@ -2,7 +2,11 @@
 Sistemas Inteligentes para a Bioinformática
 
 <h1><center>Trabalho prático</center></h1>
+
+
 “Data Science 4 Covid19”  
+
+
 What is Text Mining? Text Mining is the process of deriving meaningful information from natural language text. Natural Language Processing (NLP) is a part of computer science and artificial intelligence which deals with human languages. In other words, NLP is a component of text mining that performs linguistic analysis that essentially helps a machine to “read” text. Sentiment analysis uses NLP and is a powerful tool that allows computers to understand the underlying subjective tone of a piece of writing.
 Covid-19 epidemic had a high impact on social media usage worldwide with comments and information being spread from multiple sources. Some sources may be credible entities and experts, while others may be merely opinions and emotions originated by the users. In this scenario, text mining analysis, may prove an important tool in order to identify what drives the public conversation and the impact of Covid-19 in our lives and to identify changing emotions and sentiments during this difficult time.  
 For this work we plan to use the following dataset:  
