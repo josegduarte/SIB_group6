@@ -6,6 +6,7 @@ What is Text Mining? Text Mining is the process of deriving meaningful informati
 
 <p align="justify">
 Covid-19 epidemic had a high impact on social media usage worldwide with comments and information being spread from multiple sources. Some sources may be credible entities and experts, while others may be merely opinions and emotions originated by the users. In this scenario, text mining analysis may prove an important tool in order to identify what drives the public conversation and the impact of Covid-19 in our lives and to identify changing emotions and sentiments during this difficult time. A tool capable to detect fake news would make social media a more secure place.<br/>
+
 For this work we plan to use the following dataset:<br/>
 https://www.kaggle.com/gpreda/covid19-tweets<br/>
 https://github.com/cuilimeng/CoAID  
