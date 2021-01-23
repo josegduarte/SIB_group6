@@ -25,7 +25,7 @@ processing.py - Class created to apply pre-processing functions, in order to cle
 
 <details>
 <summary>"processing.py"</summary>
-<span style="font-size:4em;">
+<font size="5">
 <p align="justify">
 It transforms text into amore digestible form so that deep learning algorithms can perform better.<br/>
 There are the main componentsabout doing text pre-processing:<br/>
@@ -39,7 +39,7 @@ There are the main componentsabout doing text pre-processing:<br/>
 * Encoding - Assign a numerical character to each token, a applying a process a post padding, to fillwith zeros, the vectors under the length of 30 tokens.
 * Assign the respective dimensions of the pre-trained Embedding, to each word (represented bynumbers after the encoding). In this case we tested with two different Embeddings from Glove. Theglove.twitter.27b, an embbeding oriented to twitter text mining and glove.6B, developed for newscontent. Since we are working directly with the content and titles of the news shared on Twitter andnot with the posts per say shared on the platform, the second one should provide better results.
 </p>
-</span>
+</font>
 </details>
 
 
