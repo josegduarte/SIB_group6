@@ -1,4 +1,4 @@
-# **<p align="justified">Data Science 4 Covid19</p>**  
+# **<p align="justify">Data Science 4 Covid19</p>**  
 
 <p align="justify">What is Text Mining? Text Mining is the process of deriving meaningful information from natural language text. Natural Language Processing (NLP) is a part of computer science and artificial intelligence which deals with human languages. In other words, NLP is a component of text mining that performs linguistic analysis that essentially helps a machine to “read” text. Sentiment analysis uses NLP and is a powerful tool that allows computers to understand the underlying subjective tone of a piece of writing.</p>
 
