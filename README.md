@@ -18,10 +18,11 @@ Our objectives are:
 * Train a deep learning model to classify fake and real news.  
 
 ---
-
+<p style="font-family: times, serif; font-size:11pt; font-style:italic">
 Exploratory_data_analysis.ipynb - jupyter file containing the exploratory data analysis of our dataset.<br/>
 Modelos (3).ipynb - jupyter file containing the models created.<br/>
 processing.py - Class created to apply pre-processing functions, in order to clean the dataset text.<br/>
+</p>
 
 <details>
 <summary>"processing.py"</summary>
