@@ -26,6 +26,7 @@ processing.py - Class created to apply pre-processing functions, in order to cle
 <details>
 <summary>"processing.py"</summary>
 It transforms text into amore digestible form so that deep learning algorithms can perform better. There are the main componentsabout doing text pre-processing:<br/>
+
 * Remove extra whitespaces
 * Convert accented characters
 * Remove special characters and numbers•  Lowercase the text
