@@ -16,3 +16,14 @@ Our objectives are:
 * Visualize the data and perform an exploratory analysis.  
 * Analyze Covid-19 related tweets using text mining tools.  
 * Train a deep learning model to classify fake and real news.  
+
+---
+
+Exploratory_data_analysis.ipynb - jupyter file containing the exploratory data analysis of our dataset.<br/>
+Modelos (3).ipynb - jupyter file containing the models created.<br/>
+processing.py - Class created to apply pre-processing functions, in order to clean the dataset text.<br/>
+
+
+
+
+
