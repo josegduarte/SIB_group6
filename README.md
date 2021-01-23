@@ -12,7 +12,7 @@ https://www.kaggle.com/gpreda/covid19-tweets
 https://github.com/cuilimeng/CoAID  
 </p>
 
-Our objectives are:
-•  Visualize the data and perform an exploratory analysis.  
-•  Analyze Covid-19 related tweets using text mining tools.  
-•  Train a deep learning model to classify fake and real news.  
+Our objectives are:  
+* Visualize the data and perform an exploratory analysis.  
+* Analyze Covid-19 related tweets using text mining tools.  
+* Train a deep learning model to classify fake and real news.  
