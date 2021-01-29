@@ -18,10 +18,10 @@ Our objectives are:
 
 ---
 
-Exploratory_data_analysis.ipynb - jupyter file containing the exploratory data analysis of our dataset.<br/>
-Modelos (3).ipynb - jupyter file containing the models created.<br/>
+Exploratory_data_analysis.ipynb - jupyter notebook containing the exploratory data analysis of our dataset.<br/>
+Modelos (3).ipynb - jupyter notebook containing our first approach to the models creation.<br/>
 processing.py - class created to apply pre-processing functions, in order to clean the dataset text.<br/>
-
+Modelos_Optimizados.ipynb - jupyter notebook containing all the models on Table 1. Final version of our code.
 
 
 
