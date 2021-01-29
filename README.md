@@ -18,6 +18,7 @@ Our objectives are:
 
 ---
 
+Files on this repository:
 * Exploratory_data_analysis.ipynb - jupyter notebook containing the exploratory data analysis of our dataset.<br/>
 * Modelos (3).ipynb - jupyter notebook containing our first approach to the models creation.<br/>
 * processing.py - class created to apply pre-processing functions, in order to clean the dataset text.<br/>
